@@ -12,7 +12,7 @@ package com.example.jdbc;
  */
 public class Student {
     
-    private String id;git
+    private String id;
     private String name;
     private String course;
     private double mark;
